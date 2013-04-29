@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  TenmentMS
+
+  Created by Xiaohui Guo on 13-4-16.
+  Copyright (c) 2013年 PERSONAL OUT_SOFTWARE TECHNOLOGY CO.LTD. All rights reserved.
+*/
+
+"row0"="基本資料";
+"row1"="我的信息";
+"row2"="社區公告";
+"row3"="特約商店";
+"row4"="常用電話";
+"row5"="瓦斯度數";
+"register"="註冊";
+"login"="登入";
+"register_step1_title"="註冊";
+"register_step2_title"="信息定製";
+"register_step3_title"="選擇你的社區";
+"info1"="我想要看到特約商店的訊息。\n假如社區500公尺內的商店你都會看到。";
+"info2"="我想要收到社區的公告通知。\n假如社區有任何公告你都會收到。";
+"info3"="我想要收到我的信件或包裹通知。";
+"info4"="我想要看到周邊500公尺内的特約商店。";
+"map_title"="選擇你的社區";
+"map_alert_title"="你選擇的正確嗎";
+"sure"="確定";
+"suoshu"="所屬社區";
+"city"="縣市";
+"town"="區/鄉鎮";
+"address"="詳細地址";
+"continue"="繼 續";
+"account_placeholder"="帳號";
+"pwd_placeholder"="密碼";
+"surepwd_placeholder"="確認密碼";
+"loading"="正在加載，請稍候...";
+"register_alert"="不能為空";
+"twoPwd_alert"="兩次輸入的密碼不同";
+"register_loading"="正在註冊...";
